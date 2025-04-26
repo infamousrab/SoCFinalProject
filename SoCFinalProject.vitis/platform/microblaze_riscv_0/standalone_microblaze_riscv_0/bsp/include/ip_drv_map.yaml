@@ -1,0 +1,18 @@
+axi_bram_ctrl_0:
+- axi_bram_ctrl
+- bram
+axi_cdma_0:
+- axi_cdma
+- axicdma
+axi_gpio_0:
+- axi_gpio
+- gpio
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+myip_pong2_0:
+- myip_pong2
+- None
+pwm_ip_0:
+- pwm_ip
+- None

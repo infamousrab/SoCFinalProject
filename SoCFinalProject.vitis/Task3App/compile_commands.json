@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/SoCFinalProject/SoCFinalProject.vitis/Task3App/build",
+  "command": "C:\\Xilinx\\Vitis\\2024.2\\gnu\\riscv\\nt\\riscv64-unknown-elf\\bin\\riscv64-unknown-elf-gcc.exe -isystem C:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/x86_64-w64-mingw32/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.3.0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/x86_64-w64-mingw32/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.3.0/include-fixed -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/riscv32-xilinx-elf/usr/include  -O2 -march=rv32i_zicsr_zifencei -mabi=ilp32 -DSDT  -MMD -MP  -specs=C:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/Xilinx.spec -IC:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/include -Wall -Wextra      -O0  -g3     -U__clang__ \"-D__FILENAME__='__FILE__'\" -o CMakeFiles\\Task3App.elf.dir\\task3.c.obj -c C:\\SoCFinalProject\\SoCFinalProject.vitis\\Task3App\\src\\task3.c",
+  "file": "C:\\SoCFinalProject\\SoCFinalProject.vitis\\Task3App\\src\\task3.c"
+},
+{
+  "directory": "C:/SoCFinalProject/SoCFinalProject.vitis/Task3App/build",
+  "command": "C:\\Xilinx\\Vitis\\2024.2\\gnu\\riscv\\nt\\riscv64-unknown-elf\\bin\\riscv64-unknown-elf-gcc.exe -isystem C:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/x86_64-w64-mingw32/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.3.0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/x86_64-w64-mingw32/usr/lib/riscv32-xilinx-elf/gcc/riscv32-xilinx-elf/13.3.0/include-fixed -isystem C:/Xilinx/Vitis/2024.2/gnu/riscv/nt/riscv64-unknown-elf/riscv32-xilinx-elf/usr/include  -O2 -march=rv32i_zicsr_zifencei -mabi=ilp32 -DSDT  -MMD -MP  -specs=C:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/Xilinx.spec -IC:/SoCFinalProject/SoCFinalProject.vitis/platform/export/platform/sw/standalone_microblaze_riscv_0/include -Wall -Wextra      -O0  -g3     -U__clang__ \"-D__FILENAME__='__FILE__'\" -o CMakeFiles\\Task3App.elf.dir\\platform.c.obj -c C:\\SoCFinalProject\\SoCFinalProject.vitis\\Task3App\\src\\platform.c",
+  "file": "C:\\SoCFinalProject\\SoCFinalProject.vitis\\Task3App\\src\\platform.c"
+}
+]
